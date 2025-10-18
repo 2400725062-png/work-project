@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    background: ivory;
+    background-color: aqua;
+
+
+}
+
+.logo {
+    text-align: center;
+    width: 250px;
+    height: 80px;
+    
+}
+.banner {
+    width: 100%;
+    text-align: center;
+
+}
+.text {
+    text-align: center;
+}
+.btn, button {
+    text-align: center;
+}
+.dasy {
+      width: 50%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 27%;
+    size: 30px;
+    
+}
+.pic,img{
+    width: 60%;
+}
+.words{
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+.text,h1 {
+    padding-top: 2%;
+}
+.text,p {
+    padding-bottom: 3%;
+    color: brown;
+}
+button{
+    border-radius: 15%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: black;
+    background-color: blueviolet;
+}
+.row {
+    text-align: center;
+    margin-top: 1%;
+}
+.mission {
+    text-align: center;
+}
+.con {
+    text-align: center;
+    
+}
+
+.info {
+    text-align: center;
+
+}
+input {
+    width: 50%;
+    margin: 1%;
+    padding: 1%              ;
+}
+.text,h1 {
+    color: black;
+}
